@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- My name is Dayson Nascimento and I currently work as a data scientist
 - 🔭 I’m currently working on Natural Language Processing (NLP) using machine learning algorithms: specifically on long text automatic summarization. As a long-term objective, I aim to use those algorithms for transfer-learning in different domains. Reach me for ideas!
