@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - ✨ My name is Dayson Nascimento and I currently work as a data scientist, with data analysis background
 - 🔭 I’m currently working on Natural Language Processing (NLP) using machine learning algorithms: specifically on long text automatic summarization. As a long-term objective, I aim to use those algorithms for transfer-learning in different domains. Reach me for ideas!
-- 🌱 I’m currently learning about how deep learning models work. I am looking at architectures and how they are made for specific contexts (text, images or time series).
+- 🌱 I’m currently learning about deep learning models. I am looking at their architectures and how they are made for specific contexts (text, images or time series).
 - 😄 Pronouns: (he/his)
